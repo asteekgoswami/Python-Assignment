@@ -1,4 +1,3 @@
-from tkinter import N
 
 
 print("All primary number under 100 are : ")
