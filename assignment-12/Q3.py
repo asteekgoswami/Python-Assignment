@@ -1,3 +1,4 @@
+# Write a python script to print all Prime numbers under 100
 
 
 print("All primary number under 100 are : ")
